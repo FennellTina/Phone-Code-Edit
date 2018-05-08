@@ -1,6 +1,6 @@
 # Phone Code Edit
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/IMG_0018.jpg">
+<img width=300 src="https://raw.githubusercontent.com/FennellTina/Phone-Code-Edit/master/img/icon%235.png">
 
 <br> <br>
 
@@ -15,10 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/2.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/3.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/4.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/Phone-Code-Edit/master/img/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/Phone-Code-Edit/master/img/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/Phone-Code-Edit/master/img/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/Phone-Code-Edit/master/img/4.JPG"> </td>
 </tr>
 
 <tr>
